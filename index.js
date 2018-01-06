@@ -8,7 +8,7 @@ client.on("ready", () => {
 var TailleMembres = client.users.size;
 var TailleServeurs = client.guilds.size;
 
-client.user.setGame("CAPTCHA BOT EN LIGNE");
+client.user.setGame("MoNitro 2.0");
 
 console.log("--------------------------------------");
 
